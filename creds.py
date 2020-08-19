@@ -16,6 +16,6 @@ class Creds():
     
     
     #Example 
-    #TG_TOKEN = "dkjfksdkffdkfdkfdj"
+    #TG_TOKEN = "dkjfksdkffdkfdkfdja"
     #TEAMDRIVE_FOLDER_ID = "13v4MaZnBz-iEHlZ0gFXk7rh"
     #TEAMDRIVE_ID = "0APh6R4WVvguEUk9PV"
